@@ -1,1 +1,2 @@
 Some text I would like to preserve while adding text from new branch
+A text I would like to merge with master
