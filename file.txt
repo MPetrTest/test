@@ -1,2 +1,1 @@
-some text
-
+A text I would like to merge with master
